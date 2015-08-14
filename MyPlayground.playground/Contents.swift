@@ -88,8 +88,6 @@ var name = dict["name"]
 
 var myString = "My name is \(name!)";
 
-*/
-
 var arr = [2, 4, 6, 8,]
 
 arr.removeAtIndex(0)
@@ -103,6 +101,63 @@ var name = dict["name"]!
 var age = dict["age"]!
 
 var aboutMe = "My name is \(name) and my age is \(age)."
+
+var myName = "Rosario"
+
+if myName == "Rosario" {
+
+println("Hello Rosario")
+
+}
+
+else { println("Who are you?")
+
+}
+
+
+
+var myName = "Ian"
+
+var time = 13
+
+if myName == "Rosario" && time < 12 {
+    
+    println("Good Morning Rosario!")
+    
+}
+    
+else if myName == "Rosario" && time > 12 {
+    
+    println("Good afternoon Rosario")
+    
+}
+
+else { "Who are you?" }
+
+if myName == "Rosario" || time < 20 {
+    
+    println("One of these statements are true")
+}
+
+var remainder = 11 % 3
+
+*/
+
+var int = 100
+
+var remainder =  int % 2
+
+if remainder == 0 {
+    println("The number \(int) is even!")
+}
+
+else {"The number \(int) is odd!"}
+
+
+
+
+
+
 
 
 

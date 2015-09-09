@@ -270,7 +270,7 @@ while index < arr.count {
     println(arr[index])
 }
 
-*/
+
 
 var arr = [2,3,4,5,6]
 
@@ -285,6 +285,36 @@ while index < arr.count {
     println(arr)
     
     }
+
+PRIME NUMBER
+
+*/
+
+var number = 47
+
+var isPrime = true
+
+if number == 1 {
+    
+    isPrime = false
+}
+
+if number != 2 && number != 1 {
+
+for var i = 2; i < number; i++ {
+    
+    if number % i == 0 {
+        
+        isPrime = false
+    }
+}
+    
+}
+
+println(isPrime)
+
+
+
 
 
 

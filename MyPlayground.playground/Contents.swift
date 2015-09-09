@@ -153,6 +153,9 @@ if remainder == 0 {
 
 else {"The number \(int) is odd!"}
 
+var randomNumber = arc4random_uniform(11)
+
+
 
 
 

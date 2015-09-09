@@ -141,7 +141,7 @@ if myName == "Rosario" || time < 20 {
 
 var remainder = 11 % 3
 
-*/
+
 
 var int = 100
 
@@ -154,6 +154,150 @@ if remainder == 0 {
 else {"The number \(int) is odd!"}
 
 var randomNumber = arc4random_uniform(11)
+
+LOOPS
+
+for var i = 1; i < 10; i = i + 1 {
+    
+    println(i)
+    
+}
+
+for var i = 2; i < 10; i = i + 2 {
+    
+    println(i)
+
+}
+
+for var i = 3; i < 9; i = i + 2 {
+    
+    println(i)
+    
+}
+
+
+
+for var i = 30; i >= 7; i = i - 2 {
+    
+    println(i)
+    
+}
+
+
+
+
+
+for var i = 5; i <= 50; i = i + 5 {
+    
+    println(i)
+    
+}
+
+
+
+var arr = [6,3,8,1]
+
+for x in arr {
+    
+    println(x)
+}
+
+for (index, x) in enumerate(arr) {
+    
+    arr[index] = x + 1
+    
+    
+}
+
+println(arr)
+
+
+
+var arr = [10,12,14,16,18,20]
+
+for x in arr {
+    
+    println(x)
+    
+}
+
+for (index,x) in enumerate(arr) {
+    
+    arr[index] = x / 2
+    
+}
+
+println(arr)
+
+while Loop
+
+
+
+var i = 1
+
+while i < 5 {
+    
+    println(i)
+    
+    i++
+    
+}
+
+
+
+var i = 2
+
+while i < 20 {
+    
+    i = i + 2
+    
+println(i)
+
+}
+
+
+
+
+
+var arr = [7,6,8,1]
+
+var index = 0
+
+while index < arr.count {
+    
+    index++
+    
+    println(arr[index])
+}
+
+*/
+
+var arr = [2,3,4,5,6]
+
+var index = 0
+
+while index < arr.count {
+    
+    arr[index] = arr[index] - 1
+    
+    index++
+    
+    println(arr)
+    
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

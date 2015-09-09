@@ -2,5 +2,35 @@
 <Timeline
    version = "3.0">
    <TimelineItems>
+      <LoggerValueHistoryTimelineItem
+         documentLocation = "#CharacterRangeLen=10&amp;CharacterRangeLoc=2155&amp;EndingColumnNumber=15&amp;EndingLineNumber=191&amp;StartingColumnNumber=5&amp;StartingLineNumber=191&amp;Timestamp=463517193.638123"
+         selectedRepresentationIndex = "0"
+         shouldTrackSuperviewWidth = "NO">
+      </LoggerValueHistoryTimelineItem>
+      <LoggerValueHistoryTimelineItem
+         documentLocation = "#CharacterRangeLen=10&amp;CharacterRangeLoc=2221&amp;EndingColumnNumber=15&amp;EndingLineNumber=201&amp;StartingColumnNumber=5&amp;StartingLineNumber=201&amp;Timestamp=463517193.638123"
+         selectedRepresentationIndex = "1"
+         shouldTrackSuperviewWidth = "NO">
+      </LoggerValueHistoryTimelineItem>
+      <LoggerValueHistoryTimelineItem
+         documentLocation = "#CharacterRangeLen=5&amp;CharacterRangeLoc=2606&amp;EndingColumnNumber=14&amp;EndingLineNumber=251&amp;StartingColumnNumber=9&amp;StartingLineNumber=251&amp;Timestamp=463518037.26953"
+         selectedRepresentationIndex = "2"
+         shouldTrackSuperviewWidth = "NO">
+      </LoggerValueHistoryTimelineItem>
+      <LoggerValueHistoryTimelineItem
+         documentLocation = "#CharacterRangeLen=19&amp;CharacterRangeLoc=2724&amp;EndingColumnNumber=24&amp;EndingLineNumber=269&amp;StartingColumnNumber=5&amp;StartingLineNumber=269&amp;Timestamp=463518299.556093"
+         selectedRepresentationIndex = "1"
+         shouldTrackSuperviewWidth = "NO">
+      </LoggerValueHistoryTimelineItem>
+      <LoggerValueHistoryTimelineItem
+         documentLocation = "#CharacterRangeLen=7&amp;CharacterRangeLoc=2707&amp;EndingColumnNumber=12&amp;EndingLineNumber=267&amp;StartingColumnNumber=5&amp;StartingLineNumber=267&amp;Timestamp=463518299.556093"
+         selectedRepresentationIndex = "2"
+         shouldTrackSuperviewWidth = "NO">
+      </LoggerValueHistoryTimelineItem>
+      <LoggerValueHistoryTimelineItem
+         documentLocation = "#CharacterRangeLen=12&amp;CharacterRangeLoc=2878&amp;EndingColumnNumber=17&amp;EndingLineNumber=284&amp;StartingColumnNumber=5&amp;StartingLineNumber=284&amp;Timestamp=463518669.372127"
+         selectedRepresentationIndex = "0"
+         shouldTrackSuperviewWidth = "NO">
+      </LoggerValueHistoryTimelineItem>
    </TimelineItems>
 </Timeline>
